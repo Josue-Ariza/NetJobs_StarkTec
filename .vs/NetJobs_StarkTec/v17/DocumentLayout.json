@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|c:\\users\\josue\\downloads\\netjobs_starktec\\netjobs_starktec\\netjobs_starktec\\actualizardatos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|solutionrelative:netjobs_starktec\\actualizardatos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\netjobs_starktec\\publicaroferta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|solutionrelative:netjobs_starktec\\publicaroferta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\netjobs_starktec\\publicaroferta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|solutionrelative:netjobs_starktec\\publicaroferta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\netjobs_starktec\\registrarse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|solutionrelative:netjobs_starktec\\registrarse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\netjobs_starktec\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|solutionrelative:netjobs_starktec\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\netjobs_starktec\\styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|solutionrelative:netjobs_starktec\\styles\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\netjobs_starktec\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|solutionrelative:netjobs_starktec\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\netjobs_starktec\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|solutionrelative:netjobs_starktec\\inicio.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|c:\\users\\josue\\downloads\\netjobs_starktec\\netjobs_starktec\\netjobs_starktec\\registrarse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|solutionrelative:netjobs_starktec\\registrarse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\netjobs_starktec\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|solutionrelative:netjobs_starktec\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\netjobs_starktec\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|solutionrelative:netjobs_starktec\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\netjobs_starktec\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C971295-6EC1-4902-87C2-3BC93562B010}|NetJobs_StarkTec\\NetJobs_StarkTec.csproj|solutionrelative:netjobs_starktec\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActualizarDatos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\ActualizarDatos.aspx.cs",
+              "RelativeDocumentMoniker": "NetJobs_StarkTec\\ActualizarDatos.aspx.cs",
+              "ToolTip": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\ActualizarDatos.aspx.cs",
+              "RelativeToolTip": "NetJobs_StarkTec\\ActualizarDatos.aspx.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAALAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:27:21.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicarOferta.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\PublicarOferta.aspx.cs",
+              "RelativeDocumentMoniker": "NetJobs_StarkTec\\PublicarOferta.aspx.cs",
+              "ToolTip": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\PublicarOferta.aspx.cs",
+              "RelativeToolTip": "NetJobs_StarkTec\\PublicarOferta.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:17:13.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registrarse.aspx",
+              "DocumentMoniker": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Registrarse.aspx",
+              "RelativeDocumentMoniker": "NetJobs_StarkTec\\Registrarse.aspx",
+              "ToolTip": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Registrarse.aspx",
+              "RelativeToolTip": "NetJobs_StarkTec\\Registrarse.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-19T01:03:37.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Site.Master.cs",
+              "RelativeDocumentMoniker": "NetJobs_StarkTec\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Site.Master.cs",
+              "RelativeToolTip": "NetJobs_StarkTec\\Site.Master.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:47:37.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Styles\\Site.css",
+              "RelativeDocumentMoniker": "NetJobs_StarkTec\\Styles\\Site.css",
+              "ToolTip": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Styles\\Site.css",
+              "RelativeToolTip": "NetJobs_StarkTec\\Styles\\Site.css",
+              "ViewState": "AgIAAB8DAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-14T22:20:12.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Site.Master",
+              "RelativeDocumentMoniker": "NetJobs_StarkTec\\Site.Master",
+              "ToolTip": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Site.Master",
+              "RelativeToolTip": "NetJobs_StarkTec\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T22:17:34.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inicio.aspx",
+              "DocumentMoniker": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Inicio.aspx",
+              "RelativeDocumentMoniker": "NetJobs_StarkTec\\Inicio.aspx",
+              "ToolTip": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Inicio.aspx",
+              "RelativeToolTip": "NetJobs_StarkTec\\Inicio.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T22:13:37.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublicarOferta.aspx",
+              "DocumentMoniker": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\PublicarOferta.aspx",
+              "RelativeDocumentMoniker": "NetJobs_StarkTec\\PublicarOferta.aspx",
+              "ToolTip": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\PublicarOferta.aspx",
+              "RelativeToolTip": "NetJobs_StarkTec\\PublicarOferta.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-18T21:57:48.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registrarse.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Registrarse.aspx.cs",
+              "RelativeDocumentMoniker": "NetJobs_StarkTec\\Registrarse.aspx.cs",
+              "ToolTip": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Registrarse.aspx.cs",
+              "RelativeToolTip": "NetJobs_StarkTec\\Registrarse.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:03:40.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MiPerfil.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\MiPerfil.aspx.cs",
+              "RelativeDocumentMoniker": "NetJobs_StarkTec\\MiPerfil.aspx.cs",
+              "ToolTip": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\MiPerfil.aspx.cs",
+              "RelativeToolTip": "NetJobs_StarkTec\\MiPerfil.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAD0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:33:11.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Login.aspx",
+              "RelativeDocumentMoniker": "NetJobs_StarkTec\\Login.aspx",
+              "ToolTip": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Login.aspx",
+              "RelativeToolTip": "NetJobs_StarkTec\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-19T01:09:44.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "NetJobs_StarkTec\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\josue\\Downloads\\NetJobs_StarkTec\\NetJobs_StarkTec\\NetJobs_StarkTec\\Login.aspx.cs",
+              "RelativeToolTip": "NetJobs_StarkTec\\Login.aspx.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv1UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:09:47.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

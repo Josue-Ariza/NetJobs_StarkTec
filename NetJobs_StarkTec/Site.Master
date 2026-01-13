@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="NetJobs_StarkTec.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+        <asp:ContentPlaceHolder ID="title" runat="server">
+        </asp:ContentPlaceHolder></title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+      
+    </asp:ContentPlaceHolder>
+
+    <link href="Styles/Site.css" rel="stylesheet" />
+      
+   
+</head>
+<body>
+    <!-- Formulario principal de la página maestra -->
+    <form id="form1" runat="server">
+        <div class="container">
+            <!-- Sidebar Menu -->
+            <div class="sidebar">
+                <!-- Información del usuario -->
+                <div class="user-info">
+                    <!-- Imagen de perfil del usuario -->
+                    <asp:Image ID="imgUserPhoto" runat="server" CssClass="user-photo" />
+
+                    <!-- Nombre del usuario obtenido dinámicamente -->
+                    <h3 class="user-name">
+                        <asp:Label ID="lblUserName" runat="server" Text="Nombre del Usuario"></asp:Label>
+                    </h3>
+                </div>
+
+                <!-- Menú de navegación lateral -->
+                <ul class="menu">
+                    <!-- Enlace a la página de inicio -->
+                    <li><a href="Inicio.aspx">Inicio</a></li>
+
+                    <!-- Enlace al perfil del usuario -->
+                    <li><a href="MiPerfil.aspx">Perfil</a></li>
+
+                    <!-- Enlace para publicar ofertas -->
+                    <li><a href="PublicarOferta.aspx">Publicar Oferta</a></li>
+
+                    <!-- Enlace a la sección de notificaciones -->
+                    <li><a href="Notificaciones.aspx">Notificaciones</a></li>
+
+                    <!-- Enlace para gestionar las ofertas publicadas -->
+                    <li><a href="MisOfertas.aspx">Gestionar mis ofertas</a></li>
+                </ul>
+
+                <!-- Botón para cerrar sesión -->
+                <div class="logout">
+                    <a href="Login.aspx">Cerrar Sesión</a>
+                </div>
+            </div>
+
+            <!-- Área principal para contenido dinámico -->
+            <div class="content">
+                <asp:ContentPlaceHolder ID="Body" runat="server" />
+            </div>
+        </div>
+    </form>
+</body>
+
+</html>
