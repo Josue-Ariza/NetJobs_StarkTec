@@ -15,7 +15,7 @@ Los perfiles incluyen datos personales, experiencia laboral, formación académi
 
 ---
 
-## ⚙️ Funcionalidades principales
+##  Funcionalidades principales
 - Registro y autenticación de usuarios.  
 - Publicación de ofertas de empleo.  
 - Aplicación a ofertas mediante envío de CV.  
@@ -25,7 +25,7 @@ Los perfiles incluyen datos personales, experiencia laboral, formación académi
 
 ---
 
-## 📸 Capturas de pantalla
+##  Capturas de pantalla
 
 ### Dashboard principal
 ![Dashboard](screenshots/dashboard.png)
@@ -37,7 +37,7 @@ Los perfiles incluyen datos personales, experiencia laboral, formación académi
 ![Aplicar a empleo](screenshots/aplicacion-oferta.png)
 
 ### Visualización de candidatos
-![Candidatos aplicados](screenshots/notficaciones.png)
+![Candidatos aplicados](screenshots/notificaciones.png)
 
 ### Perfil de usuario
 ![Perfil de usuario](screenshots/perfil.png)
